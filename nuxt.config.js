@@ -57,6 +57,10 @@ export default {
   plugins: [
   ],
   /*
+  ** Enabling Bridge
+  */
+  bridge: true,
+  /*
   ** Nuxt.js dev-modules
   */
   buildModules: [
