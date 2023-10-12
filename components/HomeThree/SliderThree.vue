@@ -1,6 +1,42 @@
 <template>
   <div class="intro-area intro-area-3">
     <div class="intro-carousel">
+      <div class="intro-content-2 slide-2">
+        <div class="slider-images">
+          <img src="/img/slider/h4.jpg" alt="">
+        </div>
+        <div class="slider-content">
+          <div class="display-table">
+            <div class="display-table-cell">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-12">
+
+                    <div class="layer-1 wow fadeInUp" data-wow-delay="0.3s">
+                      <div style="display: flex; align-items: center; justify-content: center">
+                        <img src="/img/slider/punchlogo.png" style="height: 100px;width: 100px;/* padding: 5%; */">
+                      </div>
+                    </div>
+
+                    <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
+                      <p>Improving outcomes through sustainable innovative solutions.</p>
+                    </div>
+                    
+
+                    <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
+                      <!-- Hiding Buttons
+                      <a href="/services-2" class="ready-btn left-btn " >Our Services</a>
+                      <a href="/contact" class="ready-btn right-btn">Contact us</a>
+                      -->
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="intro-content-2">
         <div class="slider-images">
           <img src="/img/slider/h3.jpg" alt="">
@@ -19,10 +55,12 @@
                     <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
                       <p>We believe that “We succeed when We all succeed. </p>
                     </div>
-
                     <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
+                      <!-- Hiding Buttons
                       <a href="/services-2" class="ready-btn left-btn " >Our Services</a>
                       <a href="/contact" class="ready-btn right-btn">Contact us</a>
+                      -->
+
                     </div>
                   </div>
                 </div>
@@ -49,10 +87,12 @@
                     <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
                       <p>A healthier educated and environment friendly world, for all.</p>
                     </div>
-
                     <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
+                      <!-- Hiding Buttons
                       <a href="/services-2" class="ready-btn left-btn " >Our Services</a>
                       <a href="/contact" class="ready-btn right-btn">Contact us</a>
+                      -->
+
                     </div>
                   </div>
                 </div>
@@ -79,10 +119,12 @@
                     <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
                       <p>To Improve the outcomes through sustainable innovative solutions.</p>
                     </div>
-
                     <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
+                      <!-- Hiding Buttons
                       <a href="/services-2" class="ready-btn left-btn " >Our Services</a>
                       <a href="/contact" class="ready-btn right-btn">Contact us</a>
+                      -->
+
                     </div>
                   </div>
                 </div>
@@ -109,10 +151,12 @@
                     <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
                       <p>To Change for Better.</p>
                     </div>
-
                     <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
+                      <!-- Hiding Buttons
                       <a href="/services-2" class="ready-btn left-btn " >Our Services</a>
                       <a href="/contact" class="ready-btn right-btn">Contact us</a>
+                      -->
+
                     </div>
                   </div>
                 </div>
@@ -126,32 +170,34 @@
 </template>
 
 <script>
-    export default {
-        name: "SliderThree",
-      mounted() {
-        var intro_carousel = $('.intro-carousel');
-        intro_carousel.owlCarousel({
-          loop:true,
-          nav:true,
-          autoplay:false,
-          dots:false,
-          navText: ["<i class='ti-angle-left'></i>","<i class='ti-angle-right'></i>"],
-          responsive:{
-            0:{
-              items:1
-            },
-            600:{
-              items:1
-            },
-            1000:{
-              items:1
-            }
-          }
-        });
+export default {
+  name: "SliderThree",
+  mounted() {
+    var intro_carousel = $('.intro-carousel');
+    intro_carousel.owlCarousel({
+      loop: true,
+      nav: true,
+      /**
+       * this autoplay option allows us to start the carousel sliding automatically
+       * set to true
+       */
+      autoplay: true,
+      dots: false,
+      navText: ["<i class='ti-angle-left'></i>", "<i class='ti-angle-right'></i>"],
+      responsive: {
+        0: {
+          items: 1
+        },
+        600: {
+          items: 1
+        },
+        1000: {
+          items: 1
+        }
       }
-    }
+    });
+  }
+}
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>

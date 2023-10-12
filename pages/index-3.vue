@@ -2,13 +2,17 @@
     <div>
         <HeaderThree />
         <SliderThree />
-        <Service />
         <About />
+        <Service />
+        <!-- Hiding Other Contents
         <Counter />
         <Team />
         <Tab />
+        -->
         <DigitalService />
+        <!--Hiding blog
         <Blog />
+        -->
         <Footer />
     </div>
 </template>

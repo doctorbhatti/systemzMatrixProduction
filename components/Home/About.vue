@@ -2,16 +2,20 @@
   <div class="about-area about-2 fix">
     <div class="container-full">
       <div class="row">
+        <!--
         <div class="col-md-5 col-sm-4 col-xs-12">
           <div class="about-image">
+           
             <div class="video-content ">
               <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
                 <i class="fa fa-play"></i>
               </a>
             </div>
+            
           </div>
         </div>
-        <div class="col-md-7 col-sm-8 col-xs-12">
+        -->
+        <div class="">
           <div class="support-all about-content">
             <div class="section-headline right-headline white-headline">
               <h3>A Brief Introduction about <span class="color">Systemz Matrix</span></h3>

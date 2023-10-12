@@ -7,31 +7,18 @@
                         <div class="footer-content logo-footer">
                             <div class="footer-head">
                                 <div class="footer-logo">
-                                    <a href="#"
-                                        ><img src="/img/logo/logo.png" alt=""
-                                    /></a>
+                                    <a href="#"><img src="/img/logo/logo.png" alt="" /></a>
                                 </div>
                                 <p>
                                     Are you looking for professional advice for
-                                    your new business. Are you looking for
-                                    professional advice for your new business.
-                                    Are you looking for professional advice for
-                                    your new business.
+                                    your new business or you want to work with us?
                                 </p>
                                 <div class="subs-feilds">
                                     <div class="suscribe-input">
-                                        <input
-                                            type="email"
-                                            class="email form-control width-80"
-                                            id="sus_email"
-                                            placeholder="Type Email"
-                                        />
-                                        <button
-                                            type="submit"
-                                            id="sus_submit"
-                                            class="add-btn"
-                                        >
-                                            Subscribe
+                                        <input type="email" class="email form-control width-80" id="sus_email"
+                                            placeholder="Type Email" />
+                                        <button type="submit" id="sus_submit" class="add-btn">
+                                            Send Email Now!
                                         </button>
                                     </div>
                                 </div>
@@ -40,6 +27,15 @@
                     </div>
                     <div class="col-md-4 col-sm-3 col-xs-12">
                         <div class="footer-content">
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                <div class="map-area">
+                                    <iframe width="350" height="300"
+                                        src="https://www.google.com/maps/embed/v1/place?q=31.445298,+74.396657&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+                                        className="google-map__contact" allowFullScreen>
+                                    </iframe>
+                                </div>
+                            </div>
+                            <!--
                             <div class="footer-head">
                                 <h4>Services Link</h4>
                                 <ul class="footer-list">
@@ -59,6 +55,7 @@
                                     <li><a href="#">Automotion</a></li>
                                 </ul>
                             </div>
+                            -->
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-4 col-xs-12">
@@ -67,12 +64,14 @@
                                 <h4>Information</h4>
                                 <div class="footer-contacts">
                                     <p>
-                                        <span><strong>Systemz Matrix Research and Consultancy (Private) Limited (SMRACPL)</strong></span>
-                                        <br  >
+                                        <span><strong>Systemz Matrix Research and Consultancy (Private) Limited
+                                                (SMRACPL)</strong></span>
+                                        <br>
                                         4th floor, 1109 F, Commercial Area, State Life Co operative housing Society Lahore
                                     </p>
                                     <p><span>Tel :</span><a href="tel:+923307672275"> (+92) 330 7672275</a></p>
-                                    <p><span>Email :</span><a href="mailto:info@systemzmatrix.com"> info@systemzmatrix.com</a></p>
+                                    <p><span>Email :</span><a href="mailto:info@systemzmatrix.com">
+                                            info@systemzmatrix.com</a></p>
                                 </div>
                                 <div class="footer-icons">
                                     <ul>
@@ -139,5 +138,4 @@ export default {
 };
 </script>
 
-<style scoped>
-</style>
+<style scoped></style>

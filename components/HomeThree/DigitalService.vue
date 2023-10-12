@@ -4,10 +4,9 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-headline text-center">
-                        <h3>Working platform</h3>
+                        <h3>Useful Links</h3>
                         <p>
-                            Dummy text is also used to demonstrate the
-                            appearance of different typefaces and layouts
+                            Below are listed some useful links
                         </p>
                     </div>
                 </div>
@@ -18,12 +17,12 @@
                         <div class="digital-services">
                             <div class="digital-wel s1-item">
                                 <div class="digital-img">
-                                    <a class="digital-icon" href="#"
-                                        ><img src="/img/icon/a.png" alt=""
+                                    <a class="digital-icon" href="https://pmdc.pk/"
+                                        ><img src="/img/icon/pmdcLogo.png" alt=""
                                     /></a>
                                 </div>
                                 <div class="digital-content">
-                                    <h4>Financial Services</h4>
+                                    <h4>Pakistan Medical & Dental Council</h4>
                                 </div>
                             </div>
                         </div>
@@ -32,12 +31,12 @@
                         <div class="digital-services">
                             <div class="digital-wel s2-item">
                                 <div class="digital-img">
-                                    <a class="digital-icon" href="#"
-                                        ><img src="/img/icon/a2.png" alt=""
+                                    <a class="digital-icon" href="https://www.uhs.edu.pk/index4.php">
+                                        <img src="/img/icon/uhsLogo.png" alt=""
                                     /></a>
                                 </div>
                                 <div class="digital-content">
-                                    <h4>Tech & Education</h4>
+                                    <h4>University of Health Sciences</h4>
                                 </div>
                             </div>
                         </div>
@@ -46,12 +45,12 @@
                         <div class="digital-services">
                             <div class="digital-wel s4-item">
                                 <div class="digital-img">
-                                    <a class="digital-icon" href="#"
-                                        ><img src="/img/icon/a3.png" alt=""
+                                    <a class="digital-icon" href="https://www.phc.org.pk/#/home"
+                                        ><img src="/img/icon/phcLogo.png" alt=""
                                     /></a>
                                 </div>
                                 <div class="digital-content">
-                                    <h4>Creative & Media</h4>
+                                    <h4>Punjab Healthcare Commission</h4>
                                 </div>
                             </div>
                         </div>
@@ -61,17 +60,17 @@
                         <div class="digital-services">
                             <div class="digital-wel s3-item">
                                 <div class="digital-img">
-                                    <a class="digital-icon" href="#"
-                                        ><img src="/img/icon/a4.png" alt=""
+                                    <a class="digital-icon" href="https://www.who.int/"
+                                        ><img src="/img/icon/whoLogo.png" alt=""
                                     /></a>
                                 </div>
                                 <div class="digital-content">
-                                    <h4>Project management</h4>
+                                    <h4>World Health Organization</h4>
                                 </div>
                             </div>
                         </div>
                     </div>
-
+                    <!--
                     <div class="col-md-offset-3 col-md-3 col-sm-4 col-xs-12">
                         <div class="digital-services">
                             <div class="digital-wel s5-item">
@@ -101,6 +100,7 @@
                             </div>
                         </div>
                     </div>
+                    -->
                 </div>
             </div>
         </div>
