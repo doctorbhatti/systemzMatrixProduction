@@ -18,7 +18,7 @@
                                         <input type="email" class="email form-control width-80" id="sus_email"
                                             placeholder="Type Email" />
                                         <button type="submit" id="sus_submit" class="add-btn">
-                                            Send Email Now!
+                                            Send Email Now! 
                                         </button>
                                     </div>
                                 </div>
