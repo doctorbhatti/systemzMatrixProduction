@@ -18,7 +18,7 @@
         <div class="">
           <div class="support-all about-content">
             <div class="section-headline right-headline white-headline">
-              <h3>A Brief Introduction about <span class="color">Systemz Matrix</span></h3>
+              <h3>About<span class="color">Us</span></h3>
               <p>Systemz Matrix is a niche research and consultancy firm of Pakistan which is 
                 dedicated to provide comprehensive services in the sectors of health and 
                 education. Our strategic support helps the partnering organizations to 
@@ -26,21 +26,23 @@
                 Systemz Matrix team is comprised of qualified consultants having rich 
                 relevant experience.This vast experience enables us  to have an intimate 
                 understanding of the challenges our clients face and subsequently provide 
-                expertise in the best possible manner. Our core values include
+                expertise in the best possible manner.
 </p>
             </div>
+            <!--
             <div class="about-company">
               <div class="single-about">
                 <span class="about-text">Collegiality </span>
                 <span class="about-text">Discipline </span>
-                <!--<span class="about-text">Live chat upport</span>-->
+                <span class="about-text">Live chat upport</span>
               </div>
               <div class="single-about">
                 <span class="about-text">Integrity </span>
                 <span class="about-text">Commitment</span>
-                <!--<span class="about-text">Marketing expert policy</span>-->
+                <span class="about-text">Marketing expert policy</span>
               </div>
             </div>
+          -->
           </div>
         </div>
       </div>

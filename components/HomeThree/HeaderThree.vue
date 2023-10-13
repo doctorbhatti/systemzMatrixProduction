@@ -7,11 +7,11 @@
                         <div class="topbar-left">
                             <ul>
                                 <li>
-                                    <a href="mailto:info@systemzmatrix.com"><i class="fa fa-envelope"></i>
+                                    <a href="mailto:info@systemzmatrix.com"><i class="fa fa-envelope" style="color: green;"></i>
                                         info@systemzmatrix.com</a>
                                 </li>
                                 <li>
-                                    <a href="tel:+923307672275"><i class="fa fa-phone-square"></i> (+92)
+                                    <a href="tel:+923307672275"><i class="fa fa-whatsapp" style="color: green;"></i> (+92)
                                         330-7672275</a>
                                 </li>
                                 <!-- Omitting Timings List
@@ -40,7 +40,7 @@
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                 </li>
                                 <li>
-                                    <a href="#"><i class="fa fa-google"></i></a>
+                                    <a href="#"><i class="fa fa-instagram"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -154,7 +154,7 @@
                                             -->
                                         </li>
                                         <li>
-                                            <a class="pages" href="#">Services</a>
+                                            <a href="#">Services</a>
                                             <ul class="sub-menu">
                                                 <li>
                                                     <nuxt-link to="/services-2"

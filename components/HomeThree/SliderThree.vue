@@ -14,7 +14,7 @@
 
                     <div class="layer-1 wow fadeInUp" data-wow-delay="0.3s">
                       <div style="display: flex; align-items: center; justify-content: center">
-                        <img src="/img/slider/punchlogo.png" style="height: 100px;width: 100px;/* padding: 5%; */">
+                        <img src="/img/slider/punchlogo.png" style="height: 250px;width: 250px;/* padding: 5%; */">
                       </div>
                     </div>
 
@@ -53,7 +53,7 @@
                     </div>
 
                     <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
-                      <p>We believe that “We succeed when We all succeed. </p>
+                      <p>Collegiality <br >Discipline <br >Integrity <br >Commitment </p>
                     </div>
                     <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
                       <!-- Hiding Buttons
@@ -85,7 +85,8 @@
                     </div>
 
                     <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
-                      <p>A healthier educated and environment friendly world, for all.</p>
+                      <p>At Systemz Matrix, every of our effort, initiative and program are part of a bigger goal: 
+                        <br >“A healthier educated and environment friendly world, for all.”</p>
                     </div>
                     <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
                       <!-- Hiding Buttons
@@ -149,7 +150,7 @@
                     </div>
 
                     <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
-                      <p>To Change for Better.</p>
+                      <p>To Change for Better Tomorrow.</p>
                     </div>
                     <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
                       <!-- Hiding Buttons

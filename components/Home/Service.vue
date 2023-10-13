@@ -4,11 +4,13 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-headline text-center">
-                        <h3>Professional services</h3>
+                        <h2>Services</h2>
+                        <!--
                         <p>
                             We help agencies to define their new business
                             objectives and then create the road map
                         </p>
+                        -->
                     </div>
                 </div>
             </div>

@@ -6,9 +6,11 @@
                     <div class="col-md-5 col-sm-5 col-xs-12">
                         <div class="footer-content logo-footer">
                             <div class="footer-head">
+                                <!--
                                 <div class="footer-logo">
                                     <a href="#"><img src="/img/logo/logo.png" alt="" /></a>
                                 </div>
+                                -->
                                 <p>
                                     Are you looking for professional advice for
                                     your new business or you want to work with us?
