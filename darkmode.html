@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="cmn-Hans">
+  <head>
+    <meta charset="utf-8">
+    <title>Hello!</title>
+    <style id="dark-mode-theme" disabled> 
+    html {
+        background-color: #ebebeb !important;
+    }
+    
+    html {
+    filter: invert(1) hue-rotate(.5turn);
+    }
+    
+    img:not(.icon-social),
+    video,
+    code {
+    filter: hue-rotate(180deg) contrast(100%) invert(100%);
+    }
+    </style>
+  </head>
+  <body>
+    <button id="dark-mode-toggle">to light</button>
+    <h1>Hello!</h1>
+    <p>Do you like dark mode?</p>
+    <img src="https://picsum.photos/200/300"></img>
+    <hr>
+    <img class="icon-social" src="https://github.com/favicon.ico"></img>
+  </body>
+  <script>
+      var toggle = document.getElementById("dark-mode-toggle");
+var darkTheme = document.getElementById("dark-mode-theme");
+
+// probe system default dark mode setting
+var systemDefault = null
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    systemDefault = "dark";
+} else {
+    systemDefault = "light";
+}
+
+// use user preference if possible
+var savedTheme = localStorage.getItem("dark-mode-storage") || systemDefault;
+setTheme(savedTheme);
+
+toggle.addEventListener("click", () => {
+    if (toggle.innerText === "to dark" ) {
+        setTheme("dark");
+    } else if (toggle.innerText === "to light" ) {
+        setTheme("light");
+    }
+
+});
+
+function setTheme(mode) {
+    localStorage.setItem("dark-mode-storage", mode);
+
+    if (mode === "dark") {
+        darkTheme.disabled = false;
+        toggle.innerText = "to light";
+    } else if (mode === "light") {
+        darkTheme.disabled = true;
+        toggle.innerText = "to dark";
+    }
+} 
+  </script>
+</html>

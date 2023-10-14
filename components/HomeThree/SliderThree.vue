@@ -2,7 +2,7 @@
   <div class="intro-area intro-area-3">
     <div class="intro-carousel">
       <div class="intro-content-2 slide-2">
-        <div class="slider-images">
+        <div>
           <img src="/img/slider3/logoSlider.jpg" alt="">
         </div>
         <div class="slider-content">
