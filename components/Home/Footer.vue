@@ -11,9 +11,14 @@
                                     <a href="#"><img src="/img/logo/logo.png" alt="" /></a>
                                 </div>
                                 -->
-                                <p>
-                                    Are you looking for professional advice for
-                                    your new business or you want to work with us?
+                                <p> 
+                                    <strong>Work with us</strong>
+                                    <br  >
+                                    1-> Are you looking for professional advice?
+                                    <br  >
+                                    2-> Submit Proposal
+                                    <br  >
+                                    3-> Submit your resume
                                 </p>
                                 <div class="subs-feilds">
                                     <div class="suscribe-input">
@@ -63,7 +68,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="footer-content last-content">
                             <div class="footer-head">
-                                <h4>Information</h4>
+                                <h4>Reach Us</h4>
                                 <div class="footer-contacts">
                                     <p>
                                         <span><strong>Systemz Matrix Research and Consultancy (Private) Limited
@@ -71,8 +76,10 @@
                                         <br>
                                         4th floor, 1109 F, Commercial Area, State Life Co operative housing Society Lahore
                                     </p>
-                                    <p><span>Tel :</span><a href="tel:+923307672275"> (+92) 330 7672275</a></p>
-                                    <p><span>Email :</span><a href="mailto:info@systemzmatrix.com">
+                                    <p><span><i class="fa fa-whatsapp"></i> :</span><a href="https://wa.me/923307672275?text=Assalamoalikum%2C%20Please%20drop%20your%20query%2C%20we'll%20get%20back%20to%20you%20soon."> (+92) 330 7672275 <br  >       (0330-SMRACPL)</a></p>
+                                    <p><span><i class="fa fa-phone"></i> :</span><a href="tel:+924237817945">
+                                        042-37817945</a></p>
+                                    <p><span><i class="fa fa-envelope"></i> :</span><a href="mailto:info@systemzmatrix.com">
                                             info@systemzmatrix.com</a></p>
                                 </div>
                                 <div class="footer-icons">

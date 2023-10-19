@@ -18,16 +18,17 @@
         <div class="">
           <div class="support-all about-content">
             <div class="section-headline right-headline white-headline">
-              <h3>About<span class="color">Us</span></h3>
-              <p>Systemz Matrix is a niche research and consultancy firm of Pakistan which is 
-                dedicated to provide comprehensive services in the sectors of health and 
-                education. Our strategic support helps the partnering organizations to 
-                improve the existing systems in accordance with their laid down preset goals. 
-                Systemz Matrix team is comprised of qualified consultants having rich 
-                relevant experience.This vast experience enables us  to have an intimate 
-                understanding of the challenges our clients face and subsequently provide 
-                expertise in the best possible manner.
-</p>
+              <div style="display: flex; align-items: center; justify-content: center">
+              <h3>About Us</h3>
+              </div>
+              <p>Systemz Matrix is a niche research and consultancy firm from Pakistan,
+                dedicated to provide the comprehensive services in the fields of health,
+                education and environment.  At Systemz Matrix, we have a team of 
+                qualified consultants with rich relevant experience which enables 
+                us to provide the required expertise in the best possible manner. 
+                Our strategic support helps the partnering organizations to improve 
+                their existing systems accordingly to their laid down preset goal.
+              </p>
             </div>
             <!--
             <div class="about-company">
