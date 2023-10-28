@@ -54,7 +54,7 @@
 html, body {
 	height: 100%;
 }
-html {
+/* html {
     background-color: #ebebeb !important;
 }
 
@@ -66,7 +66,7 @@ img:not(.icon-social),
 video,
 code {
     filter: hue-rotate(180deg) contrast(100%) invert(100%);
-}
+} */
 .floatleft {
 	float:left;
 }
@@ -294,7 +294,8 @@ div#preloader {
     display: inline-block;
 }
 .topbar-area {
-    background: #dfe2e6;
+    /* background: #dfe2e6; */
+    background: #001f3f;
 }
 .topbar-left ul li a {
     color: #ccc;
@@ -1984,7 +1985,8 @@ div#preloader {
     top:0;
     width:100%;
     height:100%;
-    background: rgba(4, 23, 46, 0.188) none repeat scroll 0 0;
+    /* background: rgba(4, 23, 46, 0.188) none repeat scroll 0 0; */
+    background: rgba(4,23,46, 0.70) none repeat scroll 0 0;
     content:"";
 }
 .intro-area-3 .slider-content {
