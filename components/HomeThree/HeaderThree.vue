@@ -64,8 +64,9 @@
                         </div>
                     </div>
                     <div class="col-md-9 col-sm-9">
+                         <!--Omit Login & Search
                         <div class="header-right-link">
-                            <!--Omit Login & Search
+                           
 
                             <div class="search-inner">
                                 <form action="#">
@@ -86,11 +87,12 @@
                             <nuxt-link class="s-menu" to="/login"
                                 >Login</nuxt-link
                             >
-                                                -->
+                                                
 
                         </div>
+                        -->
 
-                        <nav class="navbar navbar-default">
+                        <nav class="navbar navbar-default" style="padding-top: 25px; padding-right: 90px;">
                             <div class="collapse navbar-collapse" id="navbar-example">
                                 <div class="main-menu">
                                     <ul class="nav navbar-nav navbar-right">
