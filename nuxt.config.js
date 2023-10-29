@@ -27,17 +27,17 @@ export default {
       { rel: "stylesheet", href: "css/responsive.css" }
     ],
     script: [
-      { src: "../js/vendor/jquery-1.12.4.min.js" },
-      { src: "../js/bootstrap.min.js" },
-      { src: "../js/owl.carousel.min.js" },
-      { src: "../js/jquery.counterup.min.js" },
-      { src: "../js/waypoints.js" },
-      { src: "../js/magnific.min.js" },
-      { src: "../js/wow.min.js" },
-      { src: "../js/venobox.min.js" },
-      { src: "../js/jquery.meanmenu.js" },
-      { src: "../js/form-validator.min.js" },
-      { src: "../js/plugins.js" }
+      { src: "js/vendor/jquery-1.12.4.min.js"},
+      { src: "js/bootstrap.min.js"},
+      { src: "js/owl.carousel.min.js"},
+      { src: "js/jquery.counterup.min.js"},
+      { src: "js/waypoints.js"},
+      { src: "js/magnific.min.js"},
+      { src: "js/wow.min.js"},
+      { src: "js/venobox.min.js"},
+      { src: "js/jquery.meanmenu.js"},
+      { src: "js/form-validator.min.js"},
+      { src: "js/plugins.js"},
 
 
     ]
