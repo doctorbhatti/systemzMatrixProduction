@@ -12,19 +12,20 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: "shortcut icon", type: "image/x-icon", href: "img/logo/favicon.ico" },
-      { rel: "stylesheet", href: "css/bootstrap.min.css" },
-      { rel: "stylesheet", href: "css/owl.carousel.css" },
-      { rel: "stylesheet", href: "css/owl.transitions.css" },
-      { rel: "stylesheet", href: "css/animate.css" },
-      { rel: "stylesheet", href: "css/meanmenu.min.css" },
-      { rel: "stylesheet", href: "css/font-awesome.min.css" },
-      { rel: "stylesheet", href: "css/themify-icons.css" },
-      { rel: "stylesheet", href: "css/flaticon.css" },
-      { rel: "stylesheet", href: "css/venobox.css" },
-      { rel: "stylesheet", href: "css/magnific.min.css" },
-      { rel: "stylesheet", href: "css/style.css" },
-      { rel: "stylesheet", href: "css/responsive.css" }
+      { rel: "shortcut icon", type: "image/x-icon", href: "../img/logo/favicon.ico" },
+      { rel: "stylesheet",  href: "../css/bootstrap.min.css"},
+      { rel: "stylesheet",  href: "../css/owl.carousel.css"},
+      { rel: "stylesheet",  href: "../css/owl.transitions.css"},
+      { rel: "stylesheet",  href: "../css/animate.css"},
+      { rel: "stylesheet",  href: "../css/meanmenu.min.css"},
+      { rel: "stylesheet",  href: "../css/font-awesome.min.css"},
+      { rel: "stylesheet",  href: "../css/themify-icons.css"},
+      { rel: "stylesheet",  href: "../css/flaticon.css"},
+      { rel: "stylesheet",  href: "../css/venobox.css"},
+      { rel: "stylesheet",  href: "../css/magnific.min.css"},
+      { rel: "stylesheet",  href: "../css/style.css"},
+      { rel: "stylesheet",  href: "../css/responsive.css"}
+      
     ],
     script: [
       { src: "../js/vendor/jquery-1.12.4.min.js" },
