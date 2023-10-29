@@ -32,6 +32,7 @@ import Reviews from "~/components/Home/Reviews";
 import Footer from "~/components/Home/Footer";
 
 export default {
+    name: "index-3",
     components: {
         Footer,
         Reviews,

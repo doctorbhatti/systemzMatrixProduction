@@ -70,6 +70,7 @@ export default {
   */
   modules: [
   ],
+  target: 'static', // default is 'server'
   /*
   ** Build configuration
   */

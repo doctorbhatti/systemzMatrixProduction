@@ -97,7 +97,7 @@
                                 <div class="main-menu">
                                     <ul class="nav navbar-nav navbar-right">
                                         <li>
-                                            <a href="/index-3">Home</a>
+                                            <a href="/">Home</a>
                                             <!--
                                             <ul class="sub-menu">
                                                 <li>
@@ -268,7 +268,7 @@
                             <nav id="dropdown">
                                 <ul>
                                     <li>
-                                        <a href="/index-3">Home</a>
+                                        <a href="/">Home</a>
                                         <!--
                                         <ul class="sub-menu">
                                             <li>

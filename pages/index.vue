@@ -29,7 +29,7 @@ import DigitalService from "~/components/HomeThree/DigitalService";
 import Blog from "~/components/Home/Blog";
 import Footer from "~/components/Home/Footer";
 export default {
-    name: "index-3",
+    name: "index",
     components: {
         Footer,
         Blog,
