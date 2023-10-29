@@ -17,12 +17,12 @@
                         <div class="digital-services">
                             <div class="digital-wel s1-item">
                                 <div class="digital-img">
-                                    <a class="digital-icon" href="https://pmdc.pk/"
-                                        ><img src="/img/icon/pmdcLogo.png" alt=""
+                                    <a class="digital-icon" href="https://www.hec.gov.pk/"
+                                        ><img src="/img/icon/hec.png" alt=""
                                     /></a>
                                 </div>
                                 <div class="digital-content">
-                                    <h4>Pakistan Medical & Dental Council</h4>
+                                    <h4>Higher Education Comission Pakistan</h4>
                                 </div>
                             </div>
                         </div>
@@ -31,12 +31,12 @@
                         <div class="digital-services">
                             <div class="digital-wel s2-item">
                                 <div class="digital-img">
-                                    <a class="digital-icon" href="https://www.uhs.edu.pk/index4.php">
-                                        <img src="/img/icon/uhsLogo.png" alt=""
+                                    <a class="digital-icon" href="https://pmdc.pk/">
+                                        <img src="/img/icon/pmdcLogo.png" alt=""
                                     /></a>
                                 </div>
                                 <div class="digital-content">
-                                    <h4>University of Health Sciences</h4>
+                                    <h4>Pakistan Medical & Dental Council</h4>
                                 </div>
                             </div>
                         </div>
@@ -55,7 +55,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="digital-services">
                             <div class="digital-wel s3-item">

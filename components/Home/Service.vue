@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-headline text-center">
-                        <h2>Services</h2>
+                        <h2>Our Services</h2>
                         <!--
                         <p>
                             We help agencies to define their new business
@@ -26,7 +26,7 @@
                             </div>
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>Project planning & management</h4>
+                                    <h4>Project planning & evaluation</h4>
                                     <p>
                                     </p>
                                     <a class="service-btn" href="#"
@@ -78,6 +78,29 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div
+                            class="single-service wow fadeInUp"
+                            data-wow-delay="0.3s"
+                        >
+                            <div class="service-icon">
+                                <span class="flaticon-012-business"></span>
+                            </div>
+                            <div class="service-inner">
+                                <div class="service-content">
+                                    <h4>Medical Education</h4>
+                                    <p>
+                                       
+                                    </p>
+                                    <a class="service-btn" href="#"
+                                        ><i class="ti-arrow-right"></i
+                                    ></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div
                             class="single-service wow fadeInUp"
@@ -120,28 +143,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div
-                            class="single-service wow fadeInUp"
-                            data-wow-delay="0.5s"
-                        >
-                            <div class="service-icon">
-                                <span class="flaticon-041-network"></span>
-                            </div>
-                            <div class="service-inner">
-                                <div class="service-content">
-                                    <h4>Public Health Awareness initiatives </h4>
-                                    <p>
-                                       
-                                    </p>
-                                    <a class="service-btn" href="#"
-                                        ><i class="ti-arrow-right"></i
-                                    ></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-               
                     <div style="padding-left: 45%;">
                     <nuxt-link class="s-menu" to="/services-2"
                                 >More Services..</nuxt-link
