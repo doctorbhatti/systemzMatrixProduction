@@ -5,9 +5,9 @@
         <PageTitle pageTitle="About Us" />
         <Welcome />
         <About />
-        <Counter />
-        <OverView />
-        <Reviews />
+        <!-- <Counter /> -->
+        <!-- <OverView />
+        <Reviews /> -->
         <Footer />
     </div>
 </template>

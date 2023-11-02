@@ -160,44 +160,34 @@
                                             <ul class="sub-menu">
                                                 <li>
                                                     <nuxt-link to="/services-2"
-                                                        >Project planning, management and evaluation</nuxt-link
+                                                        >Project planning, management & evaluation</nuxt-link
                                                     >
                                                 </li>
                                                 <li>
                                                     <nuxt-link to="/services-2"
-                                                        >Organizational Assessments reports</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link
-                                                        to="/services-2"
-                                                        >Human Resource management and Capacity Building</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link to="/services-2"
-                                                        >Financial and audit services</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link to="/services-2"
-                                                        >IT & AI Solutions</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link
-                                                        to="/services-2"
                                                         >Strategic Marketing</nuxt-link
                                                     >
                                                 </li>
                                                 <li>
-                                                    <nuxt-link to="/services-2"
-                                                        >Quality Assurance and Accreditations</nuxt-link
+                                                    <nuxt-link
+                                                        to="/services-2"
+                                                        >Information & Technology (IT)  solutions</nuxt-link
                                                     >
                                                 </li>
                                                 <li>
                                                     <nuxt-link to="/services-2"
                                                         >Medical Education</nuxt-link
+                                                    >
+                                                </li>
+                                                <li>
+                                                    <nuxt-link to="/services-2"
+                                                        >Research Projects</nuxt-link
+                                                    >
+                                                </li>
+                                                <li>
+                                                    <nuxt-link
+                                                        to="/services-2"
+                                                        >Public Health Awareness initiatives</nuxt-link
                                                     >
                                                 </li>
                                                 <li>
@@ -330,46 +320,36 @@
                                         <a class="pages" href="#">Services</a>
                                         
                                         <ul class="sub-menu">
-<li>
+                                            <li>
                                                     <nuxt-link to="/services-2"
-                                                        >Project planning, management and evaluation</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link to="/services-2"
-                                                        >Organizational Assessments reports</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link
-                                                        to="/services-2"
-                                                        >Human Resource management and Capacity Building</nuxt-link
+                                                        >Project planning, management & evaluation</nuxt-link
                                                     >
                                                 </li>
                                                 <li>
                                                     <nuxt-link to="/services-2"
-                                                        >Financial and audit services</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link to="/services-2"
-                                                        >IT & AI Solutions</nuxt-link
-                                                    >
-                                                </li>
-                                                <li>
-                                                    <nuxt-link
-                                                        to="/services-2"
                                                         >Strategic Marketing</nuxt-link
                                                     >
                                                 </li>
                                                 <li>
-                                                    <nuxt-link to="/services-2"
-                                                        >Quality Assurance and Accreditations</nuxt-link
+                                                    <nuxt-link
+                                                        to="/services-2"
+                                                        >Information & Technology (IT)  solutions</nuxt-link
                                                     >
                                                 </li>
                                                 <li>
                                                     <nuxt-link to="/services-2"
                                                         >Medical Education</nuxt-link
+                                                    >
+                                                </li>
+                                                <li>
+                                                    <nuxt-link to="/services-2"
+                                                        >Research Projects</nuxt-link
+                                                    >
+                                                </li>
+                                                <li>
+                                                    <nuxt-link
+                                                        to="/services-2"
+                                                        >Public Health Awareness initiatives</nuxt-link
                                                     >
                                                 </li>
                                                 <li>

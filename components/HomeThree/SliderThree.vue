@@ -171,7 +171,7 @@
                   <div class="col-md-12">
 
                     <div class="layer-1 wow fadeInUp" data-wow-delay="0.3s">
-                      <h2 class="title2">Vision</h2>
+                      <h2 class="title2"> Our Vision</h2>
                     </div>
 
                     <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">

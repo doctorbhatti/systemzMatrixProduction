@@ -24,12 +24,11 @@
                             </div>
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>Product Design</h4>
+                                    <h4>Project planning, management & evaluation</h4>
                                     <p>
-                                        Aspernatur sit adipisci quaerat unde at
-                                        neque Redug Lagre dolor sit amet
-                                        consectetu. independent agency, free
-                                        from the internal demands.
+                                        The scope of our service ranges from the very foundations of the 
+                                        concept of the project until its commissioning. We provide assistance 
+                                        to our clients in establishing health care institutes.
                                     </p>
                                     <a class="service-btn" href="#"
                                         ><i class="ti-arrow-right"></i
@@ -45,17 +44,17 @@
                             data-wow-delay="0.5s"
                         >
                             <div class="service-icon">
-                                <span class="flaticon-031-financial"></span>
+                                <span class="flaticon-002-analysis"></span>
                             </div>
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>IT management</h4>
-                                    <p>
-                                        Aspernatur sit adipisci quaerat unde at
-                                        neque Redug Lagre dolor sit amet
-                                        consectetu. independent agency, free
-                                        from the internal demands.
-                                    </p>
+                                    <h4>Strategic Marketing</h4>
+                                        <p>
+                                            Our strategies are holistic and tailored with extra ordinary matrix of 
+                                            plans and executions aligned with preset targets. Our services include 
+                                            advertising, brand positioning, reputation management, fund raising 
+                                            and digital marketing.
+                                        </p>
                                     <a class="service-btn" href="#"
                                         ><i class="ti-arrow-right"></i
                                     ></a>
@@ -70,17 +69,16 @@
                             data-wow-delay="0.7s"
                         >
                             <div class="service-icon">
-                                <span class="flaticon-057-statistics"></span>
+                                <span class="flaticon-020-database"></span>
                             </div>
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>Data security</h4>
-                                    <p>
-                                        Aspernatur sit adipisci quaerat unde at
-                                        neque Redug Lagre dolor sit amet
-                                        consectetu. independent agency, free
-                                        from the internal demands.
-                                    </p>
+                                    <h4>Information & Technology (IT)  solutions</h4>
+                                        <p>The role of IT solutions and so does its significance is increasing 
+                                            day by day and health & education sectors are not an exception. We 
+                                            provide customized IT solutions ranging from the very basic to the 
+                                            latest IT tools.
+                                        </p>
                                     <a class="service-btn" href="#"
                                         ><i class="ti-arrow-right"></i
                                     ></a>
@@ -95,17 +93,15 @@
                             data-wow-delay="0.3s"
                         >
                             <div class="service-icon">
-                                <span class="flaticon-012-business"></span>
+                                <span class="flaticon-038-jigsaw"></span>
                             </div>
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>It consultancy</h4>
-                                    <p>
-                                        Aspernatur sit adipisci quaerat unde at
-                                        neque Redug Lagre dolor sit amet
-                                        consectetu. independent agency, free
-                                        from the internal demands.
-                                    </p>
+                                    <h4>Medical Education</h4>
+                                        <p>Our specifically designed academic programs facilitate undergraduate 
+                                            and post graduate students in acquiring required knowledge, 
+                                            skills and attitude for their upcoming endeavors.
+                                        </p>
                                     <a class="service-btn" href="#"
                                         ><i class="ti-arrow-right"></i
                                     ></a>

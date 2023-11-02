@@ -89,7 +89,7 @@
                             </div>
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>Medical Education</h4>
+                                    <h4>Public Health Awareness initiatives</h4>
                                     <p>
                                        
                                     </p>
