@@ -2,7 +2,7 @@
   <div class="intro-area intro-area-3">
     <div class="intro-carousel">
       <div class="intro-content-2 slide-2">
-        <div>
+        <div class="slider-images">
           <img src="/img/slider3/tester.jpg" alt="">
         </div>
         <div class="slider-content">
@@ -31,7 +31,7 @@
         </div>
       </div>
       <div class="intro-content-2 slide-2">
-        <div>
+        <div class="slider-images">
           <img src="/img/slider3/logoSlider.jpg" alt="">
         </div>
         <div class="slider-content">
@@ -42,7 +42,7 @@
                   <div class="col-md-12">
 
                     <div class="layer-1 wow fadeInUp" data-wow-delay="0.3s">
-                      <div style="display: flex; align-items: center; justify-content: center">
+                      <div class="mediaObj" style="display: flex; align-items: center; justify-content: center">
                         <img src="/img/slider3/sliderLogo.png" style="height: 250px;width: 250px;/* padding: 5%; */">
                       </div>
                     </div>
@@ -100,7 +100,7 @@
       </div>
       <div class="intro-content-2">
         <div class="slider-images">
-          <img src="/img/slider3/ourValues.jpg" alt="">
+          <img src="/img/slider3/vision.jpg" alt="">
         </div>
         <div class="slider-content">
           <div class="display-table">
