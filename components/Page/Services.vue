@@ -116,17 +116,16 @@
                             data-wow-delay="0.5s"
                         >
                             <div class="service-icon">
-                                <span class="flaticon-041-network"></span>
+                                <span class="flaticon-058-suitcase"></span>
                             </div>
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>Cloud services</h4>
-                                    <p>
-                                        Aspernatur sit adipisci quaerat unde at
-                                        neque Redug Lagre dolor sit amet
-                                        consectetu. independent agency, free
-                                        from the internal demands.
-                                    </p>
+                                    <h4>Research Projects</h4>
+                                        <p>One of the aims of Systemz Matrix is to inculcate the research 
+                                            culture in Pakistani students. It is a joint responsibility and 
+                                            we are open for the proposals and partnerships in order to play 
+                                            our role in this much neglected field.
+                                        </p>
                                     <a class="service-btn" href="#"
                                         ><i class="ti-arrow-right"></i
                                     ></a>
@@ -141,17 +140,17 @@
                             data-wow-delay="0.7s"
                         >
                             <div class="service-icon">
-                                <span class="flaticon-002-analysis"></span>
+                                <span class="flaticon-018-corporate"></span>
                             </div>
                             <div class="service-inner">
                                 <div class="service-content">
-                                    <h4>It support helpdesk</h4>
-                                    <p>
-                                        Aspernatur sit adipisci quaerat unde at
-                                        neque Redug Lagre dolor sit amet
-                                        consectetu. independent agency, free
-                                        from the internal demands.
-                                    </p>
+                                    <h4>Public Health Awareness initiatives</h4>
+                                        <p>With limited available resources, the cost effective way forward to 
+                                            combat the burden of disease in Pakistan is public health awareness 
+                                            initiatives. At Systemz Matrix we understand that public health 
+                                            initiatives can only become successful with community involvement 
+                                            and we are working to achieve this goal 
+                                        </p>
                                     <a class="service-btn" href="#"
                                         ><i class="ti-arrow-right"></i
                                     ></a>
