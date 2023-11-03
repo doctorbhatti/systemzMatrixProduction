@@ -37,7 +37,7 @@ export default {
       { src: "js/venobox.min.js"},
       { src: "js/jquery.meanmenu.js"},
       { src: "js/form-validator.min.js"},
-      { src: "js/plugins.js"},
+      { src: "js/plugins.js"}
 
 
     ]

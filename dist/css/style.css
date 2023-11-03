@@ -718,6 +718,12 @@ div#preloader {
     background: #fff;
     color:#3078fb;
 }
+@media screen and (max-width: 600px) {
+    .mediaObj img {
+    width: 70px !important;
+    height: 70px !important;
+    }
+  }
 /*--------------------------------*/
 /* 4.Welcome Services Area
 /*--------------------------------*/
@@ -1837,6 +1843,7 @@ div#preloader {
 .intro-carousel .owl-item.active .slider-images img{
 	transform: scale(1.1);
 	transition: 10s;
+    height: 100% !important;
 }
 /*--------------------------------*/
 /* 16. Brand area
@@ -2065,7 +2072,7 @@ div#preloader {
     background: transparent;
 }
 .page-area {
-    background: url(/img/background/bread.jpg);
+    background: url(/img/background/bread_bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
