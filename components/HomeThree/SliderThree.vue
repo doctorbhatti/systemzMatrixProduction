@@ -3,7 +3,43 @@
     <div class="intro-carousel">
       <div class="intro-content-2 slide-2">
         <div class="slider-images">
-          <img src="/img/slider3/tester.jpg" alt="">
+          <img src="/img/slider3_1/5.jpg" alt="">
+        </div>
+        <div class="slider-content">
+          <div class="display-table">
+            <div class="display-table-cell">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-12">
+
+                    <div class="layer-1 wow fadeInUp" data-wow-delay="0.3s">
+                      <div class="mediaObj" style="display: flex; align-items: center; justify-content: center">
+                        <img src="/img/slider3/sliderLogo.png" style="height: 250px;width: 250px;/* padding: 5%; */">
+                      </div>
+                    </div>
+
+                    <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
+                      <!-- <p>At Systemz Matrix, we believe that “we succeed when we all succeed"</p> -->
+                    </div>
+                    
+
+                    <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
+                      <!-- Hiding Buttons
+                      <a href="/services-2" class="ready-btn left-btn " >Our Services</a>
+                      <a href="/contact" class="ready-btn right-btn">Contact us</a>
+                      -->
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="intro-content-2 slide-2">
+        <div class="slider-images">
+          <img src="/img/slider3_1/6.jpg" alt="">
         </div>
         <div class="slider-content">
           <div class="display-table">
@@ -30,9 +66,9 @@
           </div>
         </div>
       </div>
-      <div class="intro-content-2 slide-2">
+      <div class="intro-content-2">
         <div class="slider-images">
-          <img src="/img/slider3/logoSlider.jpg" alt="">
+          <img src="/img/slider3_1/1.jpg" alt="">
         </div>
         <div class="slider-content">
           <div class="display-table">
@@ -42,16 +78,12 @@
                   <div class="col-md-12">
 
                     <div class="layer-1 wow fadeInUp" data-wow-delay="0.3s">
-                      <div class="mediaObj" style="display: flex; align-items: center; justify-content: center">
-                        <img src="/img/slider3/sliderLogo.png" style="height: 250px;width: 250px;/* padding: 5%; */">
-                      </div>
+                      <h2 class="title2">Our Mission</h2>
                     </div>
 
                     <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
-                      <p>At Systemz Matrix, we believe that “we succeed when we all succeed"</p>
+                      <p>Improving the outcomes through sustainable innovative solutions</p>
                     </div>
-                    
-
                     <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
                       <!-- Hiding Buttons
                       <a href="/services-2" class="ready-btn left-btn " >Our Services</a>
@@ -68,7 +100,7 @@
       </div>
       <div class="intro-content-2 slide-2">
         <div class="slider-images">
-          <img src="/img/slider3/global.jpg" alt="">
+          <img src="/img/slider3_1/2.jpg" alt="">
         </div>
         <div class="slider-content">
           <div class="display-table">
@@ -78,11 +110,11 @@
                   <div class="col-md-12">
 
                     <div class="layer-1 wow fadeInUp" data-wow-delay="0.3s">
-                      <h2 class="title2">A healthier, educated & environment friendly world, for all</h2>
+                      <h2 class="title2"> Our Vision</h2>
                     </div>
 
                     <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
-                      <p></p>
+                      <p>Change for Better Tomorrow.</p>
                     </div>
                     <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
                       <!-- Hiding Buttons
@@ -100,7 +132,7 @@
       </div>
       <div class="intro-content-2">
         <div class="slider-images">
-          <img src="/img/slider3/vision.jpg" alt="">
+          <img src="/img/slider3_1/4.jpg" alt="">
         </div>
         <div class="slider-content">
           <div class="display-table">
@@ -127,9 +159,9 @@
           </div>
         </div>
       </div>
-      <div class="intro-content-2">
+      <div class="intro-content-2 slide-2">
         <div class="slider-images">
-          <img src="/img/slider3/mission.jpg" alt="">
+          <img src="/img/slider3_1/3.png" alt="">
         </div>
         <div class="slider-content">
           <div class="display-table">
@@ -139,11 +171,11 @@
                   <div class="col-md-12">
 
                     <div class="layer-1 wow fadeInUp" data-wow-delay="0.3s">
-                      <h2 class="title2">Mission</h2>
+                      <h2 class="title2">We Succeed When We all Succeed</h2>
                     </div>
 
                     <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
-                      <p>Improving the outcomes through sustainable innovative solutions</p>
+                      <p></p>
                     </div>
                     <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
                       <!-- Hiding Buttons
@@ -161,7 +193,7 @@
       </div>
       <div class="intro-content-2 slide-2">
         <div class="slider-images">
-          <img src="/img/slider3/vision.jpg" alt="">
+          <img src="/img/slider3_1/7.jpg" alt="">
         </div>
         <div class="slider-content">
           <div class="display-table">
@@ -171,11 +203,11 @@
                   <div class="col-md-12">
 
                     <div class="layer-1 wow fadeInUp" data-wow-delay="0.3s">
-                      <h2 class="title2"> Our Vision</h2>
+                      <h2 class="title2">A healthier, educated & environment friendly world, for all</h2>
                     </div>
 
                     <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
-                      <p>Change for Better Tomorrow.</p>
+                      <p></p>
                     </div>
                     <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
                       <!-- Hiding Buttons

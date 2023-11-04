@@ -5,10 +5,10 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-headline text-center">
                         <h3>Professional services</h3>
-                        <p>
+                        <!-- <p>
                             We help agencies to define their new business
                             objectives and then create the road map
-                        </p>
+                        </p> -->
                     </div>
                 </div>
             </div>
