@@ -126,7 +126,7 @@
                             <p style="padding-left: 6.5%;">
                                 Developed by
                                 <a href="https://doctorbhatti.github.io">
-                                    Muhammad Hassan Ashfaq
+                                    Binary Bytes
                                 </a>
                             </p>
                             <p>

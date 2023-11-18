@@ -2072,7 +2072,7 @@ div#preloader {
     background: transparent;
 }
 .page-area {
-    background: url(../img/background/bread_bg.png);
+    background: url(/img/background/bread_bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;

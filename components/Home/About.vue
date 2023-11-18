@@ -19,7 +19,7 @@
           <div class="support-all about-content">
             <div class="section-headline right-headline white-headline">
               <div style="display: flex; align-items: center; justify-content: center">
-              <h3>About Us</h3>
+              <!-- <h3>About Us</h3> -->
               </div>
               <p>Systemz Matrix is a niche research and consultancy firm from Pakistan,
                 dedicated to provide the comprehensive services in the fields of health,

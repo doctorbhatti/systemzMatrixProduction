@@ -3,7 +3,9 @@
         <HeaderThree />
         <!-- <PageHeader /> -->
         <PageTitle pageTitle="About Us" />
+        <!--
         <Welcome />
+        -->
         <About />
         <!-- <Counter /> -->
         <!-- <OverView />

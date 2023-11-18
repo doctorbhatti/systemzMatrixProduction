@@ -377,7 +377,7 @@
                                             </li>
                                         </ul>
                                     </li>
-                                    -->
+                                    
                                     <li>
                                         <a class="pages" href="#">Blog</a>
                                         <ul class="sub-menu">
@@ -392,6 +392,7 @@
                                             </li>
                                         </ul>
                                     </li>
+                                -->
                                     <li>
                                         <nuxt-link to="/contact">Contact</nuxt-link>
                                     </li>
